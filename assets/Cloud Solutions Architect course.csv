@@ -1,0 +1,85 @@
+Skill,Name of the course,Link
+Linux,Introduction to Linux, https://www.edx.org/course/introduction-to-linux
+azure,Azure Fundamentals,https://www.edx.org/course/azure-fundamentals
+HTML/CSS Markup,"HTML, CSS, and Javascript for Web Developers", https://www.coursera.org/learn/html-css-javascript-for-web-developers
+Java,Java Programming and Software Engineering Fundamentals,https://www.coursera.org/learn/java-programming
+python,Programming for Everybody (Getting Started with Python),https://www.coursera.org/learn/python
+Networking,The Bits and Bytes of Computer Networking, https://www.coursera.org/learn/computer-networking
+angular,Angular Fundamentals,https://www.coursera.org/learn/angular
+javascript,"JavaScript, jQuery, and JSON",https://www.coursera.org/learn/javascript-jquery-json
+c++,"C++ For C Programmers, Part A", https://www.coursera.org/learn/c-plus-plus-a
+Front End,Front-End Web Development with React,https://www.coursera.org/learn/front-end-react
+Pandas,Introduction to Data Science in Python, https://www.coursera.org/learn/python-data-analysis
+sql, SQL for Data Science,https://www.edx.org/course/sql-for-data-science
+MCSE,Microsoft Certified: Azure Administrator Associate,https://www.edx.org/microsoft-certified-azure-administrator-associate
+MPLS,Network Security & Database Vulnerabilities,https://www.edx.org/course/network-security-database-vulnerabilities
+LAN,Networking Essentials ,https://www.coursera.org/learn/networking-essentials
+networking,Computer Networks,https://www.coursera.org/learn/computer-networks
+Perl,Perl Programming,https://www.coursera.org/learn/perl-programming
+Network troubleshooting,Troubleshooting and Debugging Techniques ,https://www.coursera.org/learn/troubleshooting-debugging-techniques
+Javascript,"JavaScript, jQuery, and JSON",https://www.coursera.org/learn/javascript-jquery-json
+Python,Programming for Everybody (Getting Started with Python),https://www.coursera.org/learn/python
+ORCAD
+C++,"C++ For C Programmers, Part A", https://www.coursera.org/learn/c-plus-plus-a
+VLSI design,VLSI CAD Part I: Logic , https://www.coursera.org/learn/vlsi-cad-logic
+PCB,PCB Design Basics, https://www.edx.org/course/pcb-design-basics
+Circuit Design,Introduction to Electronics, https://www.coursera.org/learn/electronics
+Hardware Design,Hardware Description Languages for FPGA Design ,https://www.edx.org/course/hardware-description-languages-for-fpga-design
+ASIC,Digital ASIC Design,https://www.coursera.org/learn/digital-asic-design
+SOC,System-on-Chip Design,https://www.coursera.org/learn/soc-design
+Test Automation,Software Testing and Automation, https://www.coursera.org/learn/software-testing-automation
+PCIE,Introduction to PCIe, https://www.coursera.org/learn/introduction-to-pcie
+aws,AWS Fundamentals: Going Cloud-Native, https://www.coursera.org/learn/aws-fundamentals-going-cloud-native
+Unix,Introduction to Unix,https://www.edx.org/course/introduction-to-unix
+Oracle,Database Management Essentials,https://www.coursera.org/learn/database-management
+
+Maven,Introduction to Apache Maven,https://www.coursera.org/learn/introduction-apache-maven
+Java,Java Programming and Software Engineering Fundamentals,https://www.coursera.org/learn/java-programming
+Cloud,Cloud Computing Basics (Cloud 101),https://www.edx.org/course/cloud-computing-basics-cloud-101
+Devops," Introduction to DevOps: Transforming and Improving Operations",https://www.edx.org/course/introduction-to-devops-transforming-and-improvin
+Scrum,Introduction to Agile and Scrum , https://www.coursera.org/learn/agile-scrum-introduction
+cisco,Introduction to Cisco Networking ,https://www.coursera.org/learn/introduction-to-cisco-networking
+OSPF,OSPF - Intermediate to Advanced,https://www.coursera.org/learn/ospf-intermediate-to-advanced
+Web Designing,Web Design for Everybody: Basics of Web Development & Coding ,https://www.coursera.org/learn/web-design-basics
+Big Data,Big Data Analytics Using Spark, https://www.edx.org/course/big-data-analytics-using-spark
+HTTP,HTTP Fundamentals, https://www.coursera.org/learn/http-fundamentals
+Web Development,Full Stack Web Development with React,https://www.coursera.org/learn/full-stack-react
+JavaScript,"JavaScript, jQuery, and JSON",https://www.coursera.org/learn/javascript-jquery-json
+APEX,Apex Academy for Beginners ,https://www.coursera.org/learn/apex-beginner
+Ajax,Ajax Programming,https://www.coursera.org/learn/ajax-programming
+Cyber Security,Introduction to Cybersecurity,https://www.coursera.org/learn/introduction-cybersecurity
+Oracle,Oracle Database Administration ,https://www.edx.org/course/oracle-database-administration
+HTML,HTML5 and CSS Fundamentals, https://www.edx.org/course/html5-and-css-fundamentals
+Agile,Agile with Atlassian Jira,https://www.coursera.org/learn/agile-atlassian-jira
+jQuery,jQuery Fundamentals, https://www.coursera.org/learn/jquery
+Ruby,Learn to Program: The Fundamentals,https://www.coursera.org/learn/learn-to-program
+SQL, SQL for Data Science,https://www.edx.org/course/sql-for-data-science
+SQL.1,SQL for Data Science,https://www.edx.org/course/sql-for-data-science
+MongoDB,MongoDB Basics,https://www.coursera.org/learn/mongodb-basics
+Javascript,"JavaScript, jQuery, and JSON",https://www.coursera.org/learn/javascript-jquery-json
+Ux Design,User Experience (UX) Design Fundamentals,https://www.coursera.org/learn/user-experience-design-fundamentals
+AWS, AWS Fundamentals: Going Cloud-Native, https://www.coursera.org/learn/aws-fundamentals-going-cloud-native
+NodeJS,"Server-side Development with NodeJS, Express and MongoDB",https://www.coursera.org/learn/server-side-nodejs
+Azure,Azure Fundamentals,https://www.edx.org/course/azure-fundamentals
+Routing,Single Page Web Applications with AngularJS, https://www.coursera.org/learn/single-page-web-apps-with-angularjs
+NoSQL,Introduction to NoSQL Data Solutions,https://www.coursera.org/learn/introduction-to-nosql
+Architecture,Software Architecture and Design,https://www.coursera.org/learn/software-architecture
+XML,XML Syntax: Foundations,https://www.coursera.org/learn/xml-syntax
+ERP,Enterprise System Implementation and Management, https://www.edx.org/course/enterprise-system-implementation-and-management
+Excel,Excel Skills for Business: Essentials, https://www.coursera.org/learn/excel-essentials
+Data Analysis,Data Analysis and Presentation Skills: the PwC Approach, https://www.coursera.org/learn/data-analysis-visualization-introduction-pwc
+Rostering,Operations Management: Rostering and Rescheduling,https://www.coursera.org/learn/rostering-and-rescheduling
+Budgeting,Budgeting Essentials and Development,https://www.edx.org/course/budgeting-essentials-and-development
+CGI,Introduction to Computer Graphics with WebGL, https://www.coursera.org/learn/webgl-graphics-a
+Macros,"Excel/VBA for Creative Problem Solving, Part 1",https://www.edx.org/course/excelvba-for-creative-problem-solving-part-1
+MIS,Management Information Systems,https://www.coursera.org/learn/management-information-systems
+MS Office,Excel Skills for Business: Intermediate I,https://www.edx.org/course/excel-skills-for-business-intermediate-i
+data analysis,Data Analysis and Presentation Skills: the PwC Approach, https://www.coursera.org/learn/data-analysis-visualization-introduction-pwc
+TAM,Azure Technical Account Manager Associate certification,https://docs.microsoft.com/en-us/learn/certifications/azure-technical-account-manager/
+microsoft,Microsoft Excel Essentials: Level 1 Basics,https://www.coursera.org/learn/excel-essentials
+Shell Script,Shell Scripting: Basics ,https://www.edx.org/course/shell-scripting-basics
+Data warehousing,Data Warehousing Fundamentals for Beginners ,https://www.edx.org/course/data-warehousing-fundamentals-for-beginners
+Data analysis,Data Analysis and Presentation Skills: the PwC Approach, https://www.coursera.org/learn/data-analysis-visualization-introduction-pwc
+PHP,PHP basics,https://www.edx.org/course/php-basics
+Css,CSS Basics,https://www.edx.org/course/css-basics
+Front end,Front-End Web Development with React,https://www.coursera.org/learn/front-end-react
