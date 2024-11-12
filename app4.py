@@ -40,13 +40,13 @@ def page1():
         if selected=="Contact":
            
             st.title(f" Personal Details")
-            st.write("Name: Shivangi Singh")
-            st.write("Email: shivangi.singh.btech.2021@sitpune.edu.in")
+            st.write("Name:Raj gupta")
+            st.write("Email: Raj.gupta.btech.2021@sitpune.edu.in")
             st.write("Phone: 7388090977")
                        
-            st.write("Name: Shivansh Nautiyal")
-            st.write("Email: shivansh.nautiyal.btech.2021@sitpune.edu.in")
-            st.write("Phone: 7388090977")
+            st.write("Name: Prisha.gorakh ")
+            st.write("Email: prisha.gorakh.btech.2021@sitpune.edu.in")
+            st.write("Phone: 7388090979")
         if selected=="about":
             st.write("""
             <div style='text-align:center'>
