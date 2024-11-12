@@ -42,7 +42,7 @@ def page1():
             st.title(f" Personal Details")
             st.write("Name:Raj gupta")
             st.write("Email: Raj.gupta.btech.2021@sitpune.edu.in")
-            st.write("Phone: 7388090977")
+            st.write("Phone: 900900")
                        
             st.write("Name: Prisha.gorakh ")
             st.write("Email: prisha.gorakh.btech.2021@sitpune.edu.in")
